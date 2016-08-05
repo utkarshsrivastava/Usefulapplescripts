@@ -4,4 +4,4 @@
 - Click on the faint "none" text displayed on their right.
 - you can now select a custom shortcut for each of the services and they will be invoked with tose key combinations ! !
 Refer to the image in the source directory (pwd)
-- Enjoy !
+- Enjoy and stay tuned! There are plenty more to come :)
